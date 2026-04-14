@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-Agent%20Framework-green?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square&logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
 
 ---
 
@@ -114,12 +114,6 @@ Open `http://localhost:8501` in your browser.
 
 ---
 
-## 📸 Screenshots
-
-> *(Add a screenshot or demo GIF of the Streamlit UI here)*
-
----
-
 ## 🔑 Key Concepts Demonstrated
 
 - **Multi-agent orchestration** with LangChain's agent framework
@@ -144,15 +138,6 @@ Open `http://localhost:8501` in your browser.
 
 **Hardik** — B.Tech CSE (AI/ML), VIT Bhopal  
 Building practical AI agent systems as part of my learning journey in LLMs and agentic pipelines.
-
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-
----
-
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
 
 ---
 
