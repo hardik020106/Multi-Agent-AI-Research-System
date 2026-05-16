@@ -1,4 +1,4 @@
-# 🔬 ResearchMind — Multi-Agent AI Research System
+# 🔬 DeepTrace — Multi-Agent AI Research System
 
 > **Four specialized AI agents collaborate in a pipeline** — searching the web, scraping content, writing reports, and critiquing quality — to deliver a polished research report on any topic in seconds.
 
